@@ -1,0 +1,502 @@
+<resources>
+    <string name="app_name">Simulador de Prova Enem</string>
+    <string name="questao0"><p>Um asteroide de cerca de um mil metros de diâmetro, viajando
+        a 288 mil quilômetros por hora, passou a uma distância insignificante — em termos cósmicos —
+        da Terra, pouco mais do dobro da distância que nos separa da Lua. Segundo os cálculos
+        matemáticos, o asteroide crozou a órbita da Terra e somente não colidiu porque ela não estava
+        naquele ponto de interseção. Se ele tivesse sido capturado pelo campo gravitacional do nosso
+        planeta e colidido, o impacto equivaleria a 40 bilhões de toneladas de TNT, ou o equivalente
+        à explosão de 40 mil bombas de hidrogênio, conforme calcularam os computadores operados pelos
+        astrônomos do programa de Exploração do Sistema Solar da Nasa; se caísse no continente,
+        abriria uma cratera de cinco quilômetros, no mínimo, e destruiria tudo o que houvesse num
+        raio de milhares de outros; se desabasse no oceano, provocaria maremotos que devastariam
+        imensas regiões costeiras. Enfim, uma visão do Apocalipse.</p><br/>\n\n
+        Qual estratégia caracteriza o texto como uma noticía alarmante?</string>
+    <string name="questao0A">A) A descrição da velocidade do asteroide.</string>
+    <string name="questao0B">B) A recorrência de formulações hipotéticas.</string>
+    <string name="questao0C">C) A referência à opnião dos astrônomos.</string>
+    <string name="questao0D">D) A utilização da locução adverbial "no mínimo".</string>
+    <string name="questao0E">E) A comparação com a distância da Lua à Terra.</string>
+    <string name="questao1">A draga\n<br/>\n<br/>A gente não sabia se aquela draga tinha
+        nascido ali, no Porto, como um pé de árvore ou uma duna.\n<br/>
+        — E que fosse uma casa de peixes?\n<br/>
+        Meia dúzia de loucos e bêbados moravam dentro dela, enraizados em suas ferragens.\n<br/>
+        Dos viventes da draga era um o meu amigo Mário-pega-sapo.\n<br/>
+        [...]\n<br/>
+        Quando Mário morreu, um literato oficial, em necrológio caprichado, chamou-o de Mário-Captura-Sapo! Ai que dor!\n<br/>
+        Ao literato cujo fazia-lhe nojo a forma coloquial.\n<br/>
+        Queria captura em vez de pega para não macular (sic) a língua nacional lá dele...\n<br/>
+        [...]\n<br/>
+        Da velha draga\n<br/>
+        Abrigo de vagabundos e de bêbados, restaram as expressões: estar na draga,
+        viver na draga por estar sem dinheiro, viver na miséria\n<br/>
+        Que ora ofereço ao filólogo Aurélio Buarque de Hollanda\n<br/>
+        Para que as registre em seus léxicos\n<br/>
+        Pois que o povo já as registrou.\n<br/>\n<br/>
+        Ao criticar o preciosismo linguístico do literato e ao sugerir
+        a dicionarização de expressões locais, o poeta expressa uma concepção de língua que
+    </string>
+    <string name="questao1A">A) contrapõe características da escrita e da fala.</string>
+    <string name="questao1B">B) ironiza a comunicação fora da norma-padrão.</string>
+    <string name="questao1C">C) substitui regionalismos por registros formais.</string>
+    <string name="questao1D">D) valoriza o uso de variedades populares..</string>
+    <string name="questao1E">E) defende novas regras gramaticais.</string>
+    <string name="questao2">O documentário O menino que fez um museu, direção de Sérgio Utsch, produção independente de brasileiros e britânicos, gravado no Nordeste em 2016, mais precisamente no distrito Dom Quintino, zona rural do Crato, foi premiado em Londres, pela Foreign Press Association (FPA), a associação de correspondentes estrangeiros mais antiga do mundo, fundada em 1888.\n<br/>\n<br/>
+            De acordo com o diretor, O menino que fez um museu foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas. O documentário conta a história de um Brasil profundo, desconhecido até mesmo por muitos brasileiros. É apresentado com o carisma de Pedro Lucas Feitosa, 11 anos.\n<br/>\n<br/>
+            Quando tinha 10 anos, Pedro Lucas criou o Museu de Luiz Gonzaga, que fica no distrito de Dom Quintino. A ideia surgiu após uma visita que o garoto fez, em 2013, quando tinha 8 anos, ao Museu do Gonzagão, em Exu, Pernambuco. Pedro decidiu criar o próprio lugar de exposição para homenagear o rei e o local escolhido foi a casa da sua bisavó já falecida, que fica ao lado da casa dele, na rua Alto de Antena.\n<br/>\n<br/>
+            No segundo parágrafo, uma citação afirma que o documentário “foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas”. No texto, esse recurso expressa uma estratégia argumentativa que reforça a</string>
+    <string name="questao2A">A) originalidade da iniciativa de homenagem à vida e à obra de Luiz Gonzaga.</string>
+    <string name="questao2B">B) falta de concorrentes ao prêmio de uma das associações mais antigas do mundo.</string>
+    <string name="questao2C">C) proeza da premiação de uma história ambientada no interior do Nordeste brasileiro.</string>
+    <string name="questao2D">D) escassez de investimentos para a produção cinematográfica independente no país.</string>
+    <string name="questao2E">E) importância da parceria entre brasileiros e britânicos para a realização das filmagens.</string>
+    <string name="questao3">A volta do marido pródigo\n<br/>\n<br/>
+            — Bom dia, seu Marrinha! Como passou de ontem?\n<br/>
+            — Bem. Já sabe, não é? Só ganha meio dia. [...]\n<br/>
+            Lá além, Generoso cotuca Tercino:\n<br/>
+            — [...] Vai em festa, dorme que-horas, e, quando chega, ainda é todo enfeitado e salamistrão!...\n<br/>
+            — Que é que hei de fazer, seu Marrinha... Amanheci com uma nevralgia... Fiquei com cisma de apanhar friagem...\n<br/>
+            — Hum...\n<br/>
+            — Mas o senhor vai ver como eu toco o meu serviço e ainda faço este povo trabalhar...\n<br/>
+            Pintão suou para desprender um pedrouço, e teve de pular para trás, para que a laje lhe não esmagasse um pé. Pragueja:\n<br/>
+            — Quem não tem brio engorda!\n<br/>
+            — É... Esse sujeito só é isso, e mais isso... — opina Sidu.\n<br/>
+            — Também, tudo p\'ra ele sai bom, e no fim dá certo... — diz Correia, suspirando e retomando o enxadão. — “P\'ra uns, as vacas morrem ... p\'ra outros até boi pega a parir...”\n<br/>
+            Seu Marra já concordou:\n<br/>
+            — Está bem, seu Laio, por hoje, como foi por doença, eu aponto o dia todo. Que é a última vez!... E agora, deixa de conversa fiada e vai pegando a ferramenta!\n<br/>\n<br/>
+            Esse texto tem importância singular como patrimônio linguístico para a preservação da cultura nacional devido
+    </string>
+    <string name="questao3A">A) à menção a enfermidades que indicam falta de cuidado pessoal.</string>
+    <string name="questao3B">B) à referência a profissões já extintas que caracterizam a vida no campo.</string>
+    <string name="questao3C">C) aos nomes de personagens que acentuam aspectos de sua personalidade.</string>
+    <string name="questao3D">D) ao emprego de ditados populares que resgatam memórias e saberes coletivos.</string>
+    <string name="questao3E">E) às descrições de costumes regionais desmistificam crenças e superstições.</string>
+    <string name="questao4">Intenso e original, Son of Saul retrata horror do holocausto\n\n<br/><br/>
+            Centenas de filmes sobre o holocausto já foram produzidos em diversos países do mundo, mas nenhum é tão intenso como o húngaro Son of Saul, do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes.\n<br/>\n<br/>
+            Ao contrário da grande maioria das produções do gênero, que costuma oferecer uma variedade de informações didáticas e não raro cruza diferentes pontos de vista sobre o horror do campo de concentração, o filme acompanha apenas um personagem.\n<br/>\n<br/>
+            Ele é Saul (Géza Rôhrig), um dos encarregados de conduzir as execuções de judeus como ele que, por um dia e meio, luta obsessivamente para que um menino já morto — que pode ou não ser seu filho — tenha um enterro digno e não seja simplesmente incinerado.\n<br/>\n<br/>
+            O acompanhamento da jornada desse prisioneiro é no sentido mais literal que o cinema pode proporcionar: a câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja com um close em primeiro plano ou em sua visão subjetiva. O que se passa ao seu redor é secundário, muitas vezes desfocado.\n<br/>\n<br/>
+            Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança, e por isso pouco se envolve nos planos de fuga que os companheiros tramam e, quando o faz, geralmente atrapalha. “Você abandonou os vivos para cuidar de um morto”, acusa um deles.\n<br/>\n<br/>
+            Ver toda essa via crucis é por vezes duro e exige certa entrega do espectador, mas certamente é daquelas experiências cinematográficas que permanecem na cabeça por muito tempo.\n<br/>\n<br/>
+            O longa já está sendo apontado como o grande favorito ao Oscar de filme estrangeiro. Se levar a estatueta, certamente não faltará quem diga que a Academia tem uma preferência por quem aborda a 2º Guerra. Por mais que exista uma dose de verdade na afirmação, premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes.\n<br/>\n<br/>
+            A resenha é, normalmente, um texto de base argumentativa. Na resenha do filme Son of Saul, o trecho da sequência argumentativa que se constitui como opinião implícita é
+    </string>
+    <string name="questao4A">A) “[...] do estreante em longa-metragens Lászió Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes”.</string>
+    <string name="questao4B">B) “Ele é Saul (Géza Róhrig), um dos encarregados de conduzir as execuções de judeus [...]”.</string>
+    <string name="questao4C">C) “[...]a câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja com um close [...]”.</string>
+    <string name="questao4D">D) “Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança [...]”.</string>
+    <string name="questao4E">E) “[...] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes”.</string>
+    <string name="questao5">Sinhá\n\n<br/><br/>
+            Se a dona se banhoun<br/>
+            Eu não estava lá\n<br/>
+            Por Deus Nosso Senhor\n<br/>
+            Eu não olhei Sinhá\n<br/>
+            Estava lá na roça\n<br/>
+            Sou de olhar ninguém\n<br/>
+            Não tenho mais cobiça\n<br/>
+            Nem enxergo bem\n\n<br/><br/>
+            Para que me pôr no tronco\n<br/>
+            Para que me aleijar\n<br/>
+            Eu juro a vosmecê\n<br/>
+            Que nunca vi Sinhá\n<br/>
+            [...]\n<br/>
+            Por que talhar meu corpo\n<br/>
+            Eu não olhei Sinhá\n<br/>
+            Para que que vosmincê\n<br/>
+            Meus olhos vai furar\n<br/>
+            Eu choro em iorubá\n<br/>
+            Mas oro por Jesus\n<br/>
+            Para que que vassuncê\n<br/>
+            Me tira a luz.\n<br/>\n<br/>
+            No fragmento da letra da canção, o vocabulário empregado e a situação retratada são relevantes para o patrimônio linguístico e identitário do país, na medida em que
+    </string>
+    <string name="questao5A">A) remetem à violência física e simbólica contra os povos escravizados.</string>
+    <string name="questao5B">B) valorizam as influências da cultura africana sobre a música nacional.</string>
+    <string name="questao5C">C) relativizam o sincretismo constitutivo das práticas religiosas brasileiras.</string>
+    <string name="questao5D">D) narram os infortúnios da relação amorosa entre membros de classes sociais diferentes.</string>
+    <string name="questao5E">E) problematizam as diferentes visões de mundo na sociedade durante o período colonial.</string>
+    <string name="questao6">Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados diversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um desses estudos compara o que sonham e brincam as crianças hoje em relação às dos anos 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais sobrecarregadas por deveres e atividades extracurriculares do que as de 25 anos atrás. As crianças de hoje não só dedicam menos tempo para brincar, como também, quando brincam, a maioria não o faz com outras crianças no parque, na rua ou na praça, mas em casa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com aparelhos eletrônicos, entre os quais predomina o jogo individual com a máquina.\n\n<br/><br/>
+            O texto indica que as transformações nas experiências lúdicas na infância</string>
+    <string name="questao6A">A) fomentaram as relações sociais entre as crianças.</string>
+    <string name="questao6B">B) tomaram o lazer uma prática difundida entre as crianças.</string>
+    <string name="questao6C">C) incentivaram a criação de novos espaços para se divertir.</string>
+    <string name="questao6D">D) promoveram uma vivência corporal menos ativa.</string>
+    <string name="questao6E">E) contribuíram para o aumento do tempo dedicado para brincar.</string>
+    <string name="questao7">Os linguistas têm notado a expansão do tratamento informal. “Tenho 78 anos e devia ser tratado por senhor, mas meus alunos mais jovens me tratam por você”, diz o professor Ataliba Castilho, aparentemente sem se incomodar com a informalidade, inconcebível em seus tempos de estudante. O você, porém, não reinará sozinho. O tu predomina em Porto Alegre e convive com o você no Rio de Janeiro e em Recife, enquanto você é o tratamento predominante em São Paulo, Curitiba, Belo Horizonte e Salvador. O tu já era mais próximo e menos formal que você nas quase 500 cartas do acervo online de uma instituição universitária, quase todas de poetas, políticos e outras personalidades do final do século XIX e início do XX.\n\n<br/><br/>
+            No texto, constata-se que os usos de pronomes variaram ao longo do tempo e que atualmente têm empregos diversos pelas regiões do Brasil. Esse processo revela que
+    </string>
+    <string name="questao7A">A) a escolha de “você” ou de “tu” está condicionada à idade da pessoa que usa o pronome.</string>
+    <string name="questao7B">B) a possibilidade de se usar tanto “tu” quanto “você” caracteriza a diversidade da língua.</string>
+    <string name="questao7C">C) o pronome “tu” tem sido empregado em situações informais por todo o país.</string>
+    <string name="questao7D">D) a ocorrência simultânea de “tu” e de “você” evidencia a inexistência da distinção entre níveis de formalidade.</string>
+    <string name="questao7E">E) o emprego de “você” em documentos escritos demonstra que a língua tende a se manter inalterada.</string>
+    <string name="questao8">O solo A morte do cisne, criado em 1905 pelo russo Mikhail Fokine a partir da música do compositor francês Camille Saint-Saens, retrata o último voo de um cisne antes de morrer. Na versão original, uma bailarina com figurino impecavelmente branco e na ponta dos pés interpreta toda a agonia da ave se debatendo até desfalecer.\n\n<br/><br/>
+            Em 2012, John Lennon da Silva, de 20 anos, morador do bairro de São Mateus, na Zona Leste de São Paulo, elaborou um novo jeito de dançar a coreografia imortalizada pela bailarina Anna Pavlova. No lugar de um colã e das sapatilhas, vestiu calça jeans, camiseta e tênis. Em vez de balé, trouxe o estilo popping da street dance. Sua apresentação inovadora de A morte do cisne, que foi ao ar no programa Se ela dança, eu danço, virou hit no YouTube.\n\n<br/><br/>
+            A forma original de John Lennon da Silva reinterpretar a coreografia de A morte do cisne demonstra que</string>
+    <string name="questao8A">A) a composição da coreografia foi influenciada pela escolha do figurino.</string>
+    <string name="questao8B">B) a criação artística é beneficiada pelo encontro de modelos oriundos de diferentes realidades socioculturais.</string>
+    <string name="questao8C">C) a variação entre os modos de dançar uma mesma música evidencia a hierarquia que marca manisfestações artísticas.</string>
+    <string name="questao8D">D) a formulação erudita, à qual o dançarino não teve acesso, resulta em artistas que só conhecem a estética da arte popular.</string>
+    <string name="questao8E">E) a interpretação, por homens, de coreografias originalmente concebida para mulheres exige uma adaptação complexa. </string>
+    <string name="questao9">Seus primeiros anos de detento foram difíceis; aos poucos entendeu como o sistema funciona. Apanhou dezenas de vezes, teve o crânio esmagado, o maxilar deslocado, braços e pernas quebrados; por fim, um dia ficou lesionado da perna quando foi jogado da laje de um pavilhão. Nem todas as vezes ele soube por que apanhou, muito menos da última, quando foi deixado para morrer, mas sobreviveu. Seu corpo, moído no inferno, aguarda o fim dos seus dias. Já não questiona mais. Obedece. Cumpre as ordens. Baixa a cabeça e se retira. Apanha, às vezes com motivo, às vezes sem. Por onde passou, derramaram seu sangue. Seu rastro pode ser seguido. Intriga ter sobrevivido durante tantos anos. Pouquíssimos chegaram à terceira idade encarcerados.\n\n<br/><br/>
+            A narrativa concentra sua força expressiva no manejo de recursos formais e numa representação ficcional que
+    </string>
+    <string name="questao9A">A) buscam perpetuar visões do senso comum.</string>
+    <string name="questao9B">B) trazem à tona atitudes de um estado de exceção.</string>
+    <string name="questao9C">C) promovem a interlocução com grupos silenciados.</string>
+    <string name="questao9D">D) inspiram o sentimento de justiça por meio da empatia.</string>
+    <string name="questao9E">E) recorrem ao absurdo como forma de traduzir a realidade.</string>
+    <string name="questao10">O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas e ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins pregados numa madeira qualquer, para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando o engenheiro químico chamado Frank Nasworthy descobriu o uretano, material mais flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas.\n\n<br/><br/>
+            De acordo com o texto, diversos fatores ao longo do tempo
+    </string>
+    <string name="questao10A">A) contribuíram para a democratização do skate.</string>
+    <string name="questao10B">B) evidenciaram as demandas comerciais dos skatistas.</string>
+    <string name="questao10C">C) definiram a carreira de skatista profissional.</string>
+    <string name="questao10D">D) permitiram que a prática social do skate substituísse o surfe.</string>
+    <string name="questao10E">E) indicaram a autonomia dos praticantes de skate.</string>
+    <string name="questao11">Seu turno de trabalho acabou, você já está em casa e é hora do jantar da família. Mas, em vez de relaxar, você começa a pensar na possibilidade de ter recebido alguma mensagem importante no e-mail profissional ou no grupo de WhatsApp da empresa. Imediatamente, você fica distante. Momentos depois, com alguns toques na tela do celular, você está de volta ao ambiente de trabalho. O jantar e a família ficaram em segundo plano.\n\n<br/><br/>
+            O texto indica práticas nas relações cotidianas do trabalho que causam para o indivíduo a
+    </string>
+    <string name="questao11A">A) proteção da vida privada.</string>
+    <string name="questao11B">B) ampliação de atividades extras.</string>
+    <string name="questao11C">C) elevação de etapas burocráticas.</string>
+    <string name="questao11D">D) diversificação do lazer recreativo.</string>
+    <string name="questao11E">E) desobrigação de afazeres domésticos.</string>
+    <string name="questao12">Quando a taxa de remuneração do capital excede substancialmente a taxa de crescimento da economia, pela lógica, a riqueza herdada aumenta mais rápido do que a renda e a produção. Então, basta aos herdeiros poupar uma parte limitada da renda de seu capital para que ele cresça mais rápido do que a economia como um todo. Sob essas condições, é quase inevitável que a riqueza herdada supere a riqueza constituída durante uma vida de trabalho, e que a concentração do capital atinja níveis muito altos.\n\n<br/><br/>
+            Considerando os Princípios que legitimam as democracias liberais, a lógica econômica descrita no texto enfraquece o(a)</string>
+    <string name="questao12A">A) ideologia do mérito.</string>
+    <string name="questao12B">B) direito de nascimento.</string>
+    <string name="questao12C">C) eficácia da legislação.</string>
+    <string name="questao12D">D) ganho das financeiras.</string>
+    <string name="questao12E">E) eficiência dos mercados.</string>
+    <string name="questao13">Preços justos e autorizações de uso da água devem garantir de forma adequada que a retirada de água, bem como o retorno de efluentes, mantenham operações eficientes e ambientalmente sustentáveis, de maneira que sejam adaptáveis às peculiaridades e necessidades da indústria e da irrigação em larga escala, bem como às atividades da agricultura em pequena escala e de subsistência.\n\n<br/><br/>
+            Considerando o debate sobre segurança hídrica, a proposta apresentada no texto está pautada no(a)</string>
+    <string name="questao13A">A) distribuição equitativa do abastecimento.</string>
+    <string name="questao13B">B) monitoramento do fornecimento urbano.</string>
+    <string name="questao13C">C) racionamento da capacidade fluvial.</string>
+    <string name="questao13D">D) revitalização gradativa de solos.</string>
+    <string name="questao13E">E) geração de produtos recicláveis.</string>
+    <string name="questao14">Durante os anos de 1854-55, o governo brasileiro — por meio de sua representação diplomática em Londres — e os livre-cambistas ingleses — nas colunas do Daily News e na Câmara dos Comuns — aumentaram a pressão pela revogação da Lei Aberdeen. O governo britânico, entretanto, ainda receava que, sem um tratado anglo-brasileiro satisfatório para substituí-la, não haveria nada que impedisse os brasileiros de um dia voltarem aos seus velhos hábitos.\n\n<br/><br/>
+            As tensões diplomáticas expressas no texto indicam o interesse britânico em</string>
+    <string name="questao14A">A) estabelecer jurisdição conciliadora.</string>
+    <string name="questao14B">B) compartilhar negócios marítimos.</string>
+    <string name="questao14C">C) fomentar políticas higienistas.</string>
+    <string name="questao14D">D) manter a proibição comercial.</string>
+    <string name="questao14E">E) promover o negócio familiar.</string>
+    <string name="questao15">Famoso por ser o encantador de viúvas da cidade de Cabaceiras, na Paraíba, Zé de Sila é um contador de histórias parecido com o personagem Chicó, do Auto da Compadecida. Ele defende veementemente que a oração da avó sustentava mais a chuva. “Quando era pequeno e chovia por aqui, ajudava minha avó colocando os pratos emborcados no terreiro para diminuir o vento. Ela fazia isso e rezava para a chuva durar mais”, diz Zé de Sila.\n\n<br/><br/>
+            Ao destacar expressões e vivências populares do cotidiano, o texto mobiliza os seguintes aspectos da diversidade regional:</string>
+    <string name="questao15A">A) Alianças afetivas conectadas ao ritual matrimonial.</string>
+    <string name="questao15B">B) Práticas místicas associadas ao patrimônio cultural.</string>
+    <string name="questao15C">C) Manifestações teatrais atreladas ao imaginário político.</string>
+    <string name="questao15D">D) Narrativas fíilmicas relacionadas às intempéries climáticas.</string>
+    <string name="questao15E">E) Argumentações literárias interligadas às catástrofes ambientais.</string>
+    <string name="questao16">O uso de novas tecnologias envolve a assimilação de uma cultura empresarial na qual haja a integração entre as propostas de modernização tecnológica e a racionalização. Nem sempre o uso de novas tecnologias é apenas um processo técnico na medida em que pressupõe uma nova orientação no controle do capital, no processo produtivo e na qualificação da mão de obra. Dos diversos efeitos que derivaram dessa orientação, a terceirização, a precarização e a flexibilização aparecem com constância como características do paradigma flexível, em substituição ao modelo taylorista-fordista.\n\n<br/><br/>
+            O uso de novas tecnologias relacionado ao controle empresarial é criticado no texto em razão da</string>
+    <string name="questao16A">A) operacionalização da tarefa laboral.</string>
+    <string name="questao16B">B) capacitação de profissionais liberais.</string>
+    <string name="questao16C">C) fragilização das relações de trabalho.</string>
+    <string name="questao16D">D) hierarquização dos cargos executivos.</string>
+    <string name="questao16E">E) aplicação dos conhecimentos da ciência.</string>
+    <string name="questao17">A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. Ao transitarem entre os dois universos, ocupam posição marginal, tanto em termos identitários — assentada na falta de pertencimento pleno enquanto membros da comunidade receptora e nos vínculos introjetados por códigos partilhados com a comunidade de origem — quanto em termos jurídicos, ao deixarem de exercitar, ao menos em caráter temporário, o status de cidadãos no país de origem e portar o status de refugiados no país receptor.\n\n<br/><br/>
+            A condição de transitoriedade dos refugiados no Brasil, conforme abordada no texto, é provocada pela associação entre</string>
+    <string name="questao17A">A) ascensão social e burocracia estatal.</string>
+    <string name="questao17B">B) miscigenação étnica e limites fronteiriços.</string>
+    <string name="questao17C">C) desqualificação profissional e ação policial.</string>
+    <string name="questao17D">D) instabilidade financeira e crises econômicas.</string>
+    <string name="questao17E">E) desenraizamento cultural e insegurança legal.</string>
+    <string name="questao18">Mulheres naturalistas raramente figuraram na corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécimes botânicos, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos.\n\n<br/><br/>
+            No contexto do século XIX, a relação das mulheres com o campo científico, descrita no texto, é representativa da</string>
+    <string name="questao18A">A) afirmação da igualdade de gênero.</string>
+    <string name="questao18B">B) transformação dos espaços de lazer.</string>
+    <string name="questao18C">C) superação do pensamento patriarcal.</string>
+    <string name="questao18D">D) incorporação das estratificações sociais.</string>
+    <string name="questao18E">E) substituição das atividades domésticas.</string>
+    <string name="questao19">Nos setores mais altamente desenvolvidos da sociedade contemporânea, o transplante de necessidades sociais para individuais é de tal modo eficaz que a diferença entre elas parece puramente teórica. As criaturas se reconhecem em suas mercadorias; encontram sua alma em seu automóvel, casa em patamares, utensílios de cozinha.\n\n<br/><br/>
+            O texto indica que, no capitalismo, a satisfação dos desejos pessoais é influenciada por</string>
+    <string name="questao19A">A) políticas estatais de divulgação.</string>
+    <string name="questao19B">B) incentivos controlados de consumo.</string>
+    <string name="questao19C">C) prescrições coletivas de organização.</string>
+    <string name="questao19D">D) mecanismos subjetivos de identificação.</string>
+    <string name="questao19E">E) repressões racionalizadas do narcisismo.</string>
+    <string name="questao20">A vida das pessoas se modifica com a mesma rapidez com que se reproduz a cidade. O lugar da festa, do encontro quase desaparecem; o número de brincadeiras infantis nas ruas diminui — as crianças quase não são vistas; os pedaços da cidade são vendidos, no mercado, como mercadorias; árvores são destruídas, praças transformadas em concreto. Por outro lado, os habitantes parecem perder na cidade suas próprias referências. A imagem de uma grande cidade hoje é tão mutante que se assemelha à de um grande guindaste, aliás, a presença maciça destes, das britadeiras, das betoneiras nos dão o limite do processo de transformação diária ao qual está submetida a cidade.\n\n<br/><br/>
+            No contexto das grandes cidades brasileiras, a situação apresentada no texto vem ocorrendo como consequência da</string>
+    <string name="questao20A">A) manutenção dos modos de convívio social.</string>
+    <string name="questao20B">B) preservação da essência do espaço público.</string>
+    <string name="questao20C">C) ampliação das normas de controle ambiental.</string>
+    <string name="questao20D">D) flexibilização das regras de participação política.</string>
+    <string name="questao20E">E) alteração da organização da paisagem geográfica.</string>
+    <string name="questao21">No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando como referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira lua cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”.\n\n<br/><br/>
+            O texto expõe a produção de um conhecimento que se constitui pela</string>
+    <string name="questao21A">A) técnica científica.</string>
+    <string name="questao21B">B) experiência perceptiva.</string>
+    <string name="questao21C">C) negação das tradições.</string>
+    <string name="questao21D">D) padronização das culturas.</string>
+    <string name="questao21E">E) uniformização das informações.</string>
+    <string name="questao22">Os pesticidas organoclorados foram amplamente empregados na agricultura, contudo, em razão das suas elevadas toxicidades e persistências no meio ambiente, eles foram banidos. Considere a aplicação de 500 g de um pesticida organoclorado em uma cultura e que, em certas condições, o tempo de meia-vida do pesticida no solo seja de 5 anos.\n\n<br/><br/>
+            A massa do pesticida no decorrer de 35 anos será mais próxima de</string>
+    <string name="questao22A">A) 3,9 g.</string>
+    <string name="questao22B">B) 31,2 g.</string>
+    <string name="questao22C">C) 62,5 g.</string>
+    <string name="questao22D">D) 125,0 g.</string>
+    <string name="questao22E">E) 250,0 g.</string>
+    <string name="questao23">A simples atitude de não jogar direto no lixo ou no ralo da pia o óleo de cozinha usado pode contribuir paraa redução da poluição ambiental. Mas o que fazer com o óleo vegetal que não será mais usado? Não existe um modelo ideal de descarte, mas uma alternativa simples tem sido reaproveitá-lo para fazer sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica.\n\n<br/><br/>
+            Com base no texto, a reação química que permite o reaproveitamento do óleo vegetal é denominada</string>
+    <string name="questao23A">A) redução.</string>
+    <string name="questao23B">B) epoxidação.</string>
+    <string name="questao23C">C) substituição.</string>
+    <string name="questao23D">D) esterificação.</string>
+    <string name="questao23E">E) saponificação.</string>
+    <string name="questao24">Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os átrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação não causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o nascimento.\n\n<br/><br/>
+            Os prejuízos no período embrionário são evitados porque a circulação fetal se assemelha à dos(as)</string>
+    <string name="questao24A">A) aves, porque a pequena circulação e a grande circulação estão presentes.</string>
+    <string name="questao24B">B) répteis, porque a mistura de sangue é minimizada por um metabolismo lento.</string>
+    <string name="questao24C">C) crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.</string>
+    <string name="questao24D">D) peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.</string>
+    <string name="questao24E">E) anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.</string>
+    <string name="questao25">O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.\n\n<br/><br/>
+            Concentrações mais elevadas dos compostos citados são encontradas em</string>
+    <string name="questao25A">A) esponjas.</string>
+    <string name="questao25B">B) golfinhos.</string>
+    <string name="questao25C">C) fitoplâncton.</string>
+    <string name="questao25D">D) peixes herbívoros.</string>
+    <string name="questao25E">E) algas macroscópicas.</string>
+    <string name="questao26">Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.\n\n<br/><br/>
+            O processo metabólico associado à expressão combustíveis ambientais é a</string>
+    <string name="questao26A">A) fotossíntese.</string>
+    <string name="questao26B">B) fermentação.</string>
+    <string name="questao26C">C) quimiossíntese.</string>
+    <string name="questao26D">D) respiração aeróbica.</string>
+    <string name="questao26E">E) fosforilação oxidativa.</string>
+    <string name="questao27">Os búfalos são animais considerados rústicos pelos criadores e, por isso, são deixados no campo sem controle reprodutivo. Por causa desse tipo de criação, a consanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas.\n\n<br/><br/>
+            Qual procedimento biotecnológico prévio é recomendado nessa situação?</string>
+    <string name="questao27A">A) Transgenia.</string>
+    <string name="questao27B">B) Terapia gênica.</string>
+    <string name="questao27C">C) Vacina de DNA.</string>
+    <string name="questao27D">D) Clonagem terapêutica.</string>
+    <string name="questao27E">E) Mapeamento genético.</string>
+    <string name="questao28">Um dos exames clínicos mais tradicionais para medir a capacidade reflexa dos indivíduos é o exame do reflexo patelar. Esse exame consiste na estimulação da patela, um pequeno osso localizado na parte anterior da articulação do joelho, com um pequeno martelo. A resposta reflexa ao estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado.\n\n<br/><br/>
+            Qual região específica do sistema nervoso coordena essa resposta?</string>
+    <string name="questao28A">A) Ponte.</string>
+    <string name="questao28B">B) Medula.</string>
+    <string name="questao28C">C) Cerebelo.</string>
+    <string name="questao28D">D) Hipotálamo.</string>
+    <string name="questao28E">E) Neuro-hipófise.</string>
+    <string name="questao29">Com o aumento da população de suínos no Brasil, torna-se necessária a adoção de métodos para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são 200 vezes mais poluentes. Sendo assim, a utilização desses resíduos como matéria-prima na obtenção de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que parte dos recursos hídricos do país são preservados.\n\n<br/><br/>
+            O biocombustível a que se refere o texto é o</string>
+    <string name="questao29A">A) etanol.</string>
+    <string name="questao29B">B) biogás.</string>
+    <string name="questao29C">C) butano.</string>
+    <string name="questao29D">D) metanol.</string>
+    <string name="questao29E">E) biodiesel.</string>
+    <string name="questao30">À curcumina, uma das substâncias que confere a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto após ser ingerida com a água do criadouro e, quando ativada pela luz, induz a produção de espécies reativas de oxigênio que danificam de forma fatal o tecido do tubo digestório.\n\n<br/><br/>
+            A forma de combate relatada tem como atividade o(a)</string>
+    <string name="questao30A">A) morte do indivíduo adulto.</string>
+    <string name="questao30B">B) redução da eclosão dos ovos.</string>
+    <string name="questao30C">C) comprometimento da metamorfose.</string>
+    <string name="questao30D">D) impedimento do desenvolvimento da larva.</string>
+    <string name="questao30E">E) repelência da forma transmissora da doença.</string>
+    <string name="questao31">Entre 2014 e 2016, as regiões central e oeste da África sofreram uma grave epidemia de febre hemorrágica causada pelo vírus ebola, que se manifesta em até 21 dias após a infecção e cuja taxa de letalidade (enfermos que vão a óbito) pode chegar a 90%. Em regiões de clima tropical e subtropical, um outro vírus também pode causar febre hemorrágica: o vírus da dengue, que, embora tenha período de incubação menor (até 10 dias), apresenta taxa de letalidade abaixo de 1%.\n\n<br/><br/>
+            Segundo as informações do texto e aplicando princípios de evolução biológica às relações do tipo patógeno-hospedeiro, qual dos dois vírus infecta seres humanos há mais tempo?</string>
+    <string name="questao31A">A) Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.</string>
+    <string name="questao31B">B) Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.</string>
+    <string name="questao31C">C) Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.</string>
+    <string name="questao31D">D) Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.</string>
+    <string name="questao31E">E) Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro.</string>
+    <string name="questao32">O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar o caule das roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.\n\n<br/><br/>
+            A utilização de auxinas no método de estaquia das roseiras contribui para</string>
+    <string name="questao32A">A) floração da planta.</string>
+    <string name="questao32B">B) produção de gemas laterais.</string>
+    <string name="questao32C">C) formação de folhas maiores.</string>
+    <string name="questao32D">D) formação de raízes adventícias.</string>
+    <string name="questao32E">E) produção de compostos energéticos.</string>
+    <string name="questao33">Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.\n\n<br/><br/>
+            A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é</string>
+    <string name="questao33A">A) 10% menor.</string>
+    <string name="questao33B">B) 1% menor.</string>
+    <string name="questao33C">C) igual.</string>
+    <string name="questao33D">D) 1% maior.</string>
+    <string name="questao33E">E) 11% maior.</string>
+    <string name="questao34">Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.\n\n<br/><br/>
+            Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?</string>
+    <string name="questao34A">A) 6,0</string>
+    <string name="questao34B">B) 5,7</string>
+    <string name="questao34C">C) 5,0</string>
+    <string name="questao34D">D) 4,5</string>
+    <string name="questao34E">E) 4,4</string>
+    <string name="questao35">Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos.\n\n<br/><br/>
+            O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é</string>
+    <string name="questao35A">A) 15,9.</string>
+    <string name="questao35B">B) 16,1.</string>
+    <string name="questao35C">C) 16,4.</string>
+    <string name="questao35D">D) 17,4.</string>
+    <string name="questao35E">E) 18,0.</string>
+    <string name="questao36">Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.\n\n<br/><br/>
+            Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para Pi.\n\n<br/><br/>
+            Nas condições apresentadas, o reservatório deverá ser construído com uma altura intema mínima, em metro, igual a</string>
+    <string name="questao36A">A) 1,12.</string>
+    <string name="questao36B">B) 3,10.</string>
+    <string name="questao36C">C) 4,35.</string>
+    <string name="questao36D">D) 4,48.</string>
+    <string name="questao36E">E) 5,60.</string>
+    <string name="questao37">Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$ 300,00.\n\n<br/><br/>
+            Para não ter prejuízo, o menor número de lavagens diárias que o lava-rápido deve efetuar é</string>
+    <string name="questao37A">A) 6.</string>
+    <string name="questao37B">B) 8.</string>
+    <string name="questao37C">C) 9.</string>
+    <string name="questao37D">D) 15.</string>
+    <string name="questao37E">E) 20.</string>
+    <string name="questao38">Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n\n<br/><br/>
+            I. um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção;\n\n<br/><br/>
+            II. um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano.\n\n<br/><br/>
+            Considera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade.\n\n<br/><br/>
+            A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de</string>
+    <string name="questao38A">A) 1,31 mil reais.</string>
+    <string name="questao38B">B) 1,90 mil reais.</string>
+    <string name="questao38C">C) 2,30 milreais.</string>
+    <string name="questao38D">D) 2,36 mil reais.</string>
+    <string name="questao38E">E) 2,95 mil reais.</string>
+    <string name="questao39">O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso intemo com tinta epóxi. O construtor havia pedido, a cinco fomecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\n\n<br/><br/>
+            Em relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n\n<br/><br/>
+            Fornecedor I: “O dobro, tanto para as paredes quanto para o piso.”\n\n<br/><br/>
+            Fornecedor II: “O dobro para as paredes e quatro vezes para o piso.”\n\n<br/><br/>
+            Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”\n\n<br/><br/>
+            Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”\n\n<br/><br/>
+            Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”\n\n<br/><br/>
+            Analisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.\n\n<br/><br/>
+            Qual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para a aquisição do material?</string>
+    <string name="questao39A">A) I</string>
+    <string name="questao39B">B) II</string>
+    <string name="questao39C">C) III</string>
+    <string name="questao39D">D) IV</string>
+    <string name="questao39E">E) V</string>
+    <string name="questao40">Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.\n\n<br/><br/>
+            Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a</string>
+    <string name="questao40A">A) 700 000.</string>
+    <string name="questao40B">B) 1 600 000.</string>
+    <string name="questao40C">C) 1 900 000.</string>
+    <string name="questao40D">D) 2 200 000.</string>
+    <string name="questao40E">E) 2 800 000.</string>
+    <string name="questao41">O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:\n\n<br/><br/>
+            Quatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).\n\n<br/><br/>
+            Três secundárias: V (vale 5); L (vale 50) e D (vale 500).\n\n<br/><br/>
+            Às regras para escrever números romanos são:\n\n<br/><br/>
+            1. Não existe símbolo correspondente ao zero;\n\n<br/><br/>
+            2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;\n\n<br/><br/>
+            3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 — 1 = 9;\n\n<br/><br/>
+            4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11.\n\n<br/><br/>
+            Em uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\n\n<br/><br/>
+            Quantos anos de fundação essa cidade comemorará em 2050?</string>
+    <string name="questao41A">A) 379</string>
+    <string name="questao41B">B) 381</string>
+    <string name="questao41C">C) 579</string>
+    <string name="questao41D">D) 581</string>
+    <string name="questao41E">E) 601</string>
+    <string name="questao42">O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.\n\n<br/><br/>
+            Afim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 9/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.\n\n<br/><br/>
+            Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é</string>
+    <string name="questao42A">A) 2</string>
+    <string name="questao42B">B) 4</string>
+    <string name="questao42C">C) 6</string>
+    <string name="questao42D">D) 9</string>
+    <string name="questao42E">E) 10</string>
+    <string name="questao43">Um nutricionista verificou, na dieta diária do seu cliente, a falta de 800 mg do mineral A, de 1 000 mg do mineral Be de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado.\n\n<br/><br/>
+            O cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados a seguir:\n\n<br/><br/>
+            Suplemento I: contém 50 mg do mineral A, 100 mg do mineral B e 200 mg do mineral C e custa R$ 2,00;\n\n<br/><br/>
+            Suplemento II: contém 800 mg do mineral A, 250 mg do mineral B e 200 mg do mineral C e custa R$ 3,00;\n\n<br/><br/>
+            Suplemento III: contém 250 mg do mineral A, 1 000 mg do mineral B e 300 mg do mineral C e custa R$ 5,00;\n\n<br/><br/>
+            Suplemento IV: contém 600 mg do mineral A, 500 mg do mineral B e 1000 mg do mineral C e custa R$ 6,00;\n\n<br/><br/>
+            Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B e 1 200 mg do mineral C e custa R$ 8,00.\n\n<br/><br/>
+            O cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.\n\n<br/><br/>
+            Nessas condições, o cliente deverá comprar sachês do suplemento</string>
+    <string name="questao43A">A) I.</string>
+    <string name="questao43B">B) II.</string>
+    <string name="questao43C">C) III.</string>
+    <string name="questao43D">D) IV.</string>
+    <string name="questao43E">E) V.</string>
+    <string name="questao44">We are now a nation obsessed with the cult of celebrity. Celebrities have replaced the classic notion of the hero. But instead of being respected for talent, courage or intelligence, itis money, style and image the deciding factors in what commands respect. Image is everything. Their image is painstakingly constructed by a multitude of different image consultants to carve out the most profitable celebrity they can. Then society is right behind them, believing in everything that celebrity believes in. Companies know that people will buy a product if a celebrity has it too. Itis as if the person buying the product feels that they now have some kind of connection with the celebrity and that some of their perceived happiness will now be passed onto the consumer. So to look at it one way, the cult of celebrity is really nothing more than a sophisticated marketing scheme. Celebrities though cannot be blamed for all negative aspects of society. In reality society is to blame. We are the people who seemed to have lost the ability to think for ourselves. I suppose its easier to be told what to think, rather than challenging what we are told. The reason we are swamped by celebrity is because there is a demand for it.\n\n<br/><br/>
+            O texto, que aborda questões referentes ao tema do culto à celebridade, tem o objetivo de</string>
+    <string name="questao44A">A) destacar os méritos das celebridades.</string>
+    <string name="questao44B">B) criticar o consumismo das celebridades.</string>
+    <string name="questao44C">C) ressaltar a necessidade de reflexão dos fãs.</string>
+    <string name="questao44D">D) culpar as celebridades pela obsessão dos fãs.</string>
+    <string name="questao44E">E) valorizar o marketing pessoal das celebridades.</string>
+    <string name="questao45">The British (serves 60 million)\n\n<br/><br/>
+            Take some Picts, Celts and Silures\n<br/>
+            And let them settle,\n<br/>
+            Then overrun them with Roman conquerors.\n<br/>
+            Remove the Romans after approximately 400 years\n<br/>
+            Add lots of Norman French to some\n<br/>
+            Angles, Saxons, Jutes and Vikings, then stir vigorously.\n<br/>
+            [...]\n<br/>
+            Sprinkle some fresh Indians, Malaysians, Bosnians,\n<br/>
+            Iragis and Bangladeshis together with some\n<br/>
+            Afghans, Spanish, Turkish, Kurdish, Japanese\n<br/>
+            And Palestinians\n<br/>
+            Then add to the melting pot.\n<br/>
+            Leave the ingredients to simmer.\n<br/>
+            Às they mix and blend allow their languages to flourish\n<br/>
+            Binding them together with English.\n<br/>
+            Allow time to be cool.\n<br/>
+            Add some unity, understanding, and respect for the future,\n<br/>
+            Serve with justice\n<br/>
+            And enjoy.\n\n<br/><br/>
+            Note: All the ingredients are equally important. Treating one ingredient better than another will leave a bitter unpleasant taste.\n\n<br/><br/>
+            Warning: An unequal spread of justice will damage the people and cause pain. Give justice and equality to all.\n\n<br/><br/>
+            Ao descrever o processo de formação da Inglaterra, o autor do poema recorre a características de outro gênero textual para evidenciar</string>
+    <string name="questao45A">A) a riqueza da mistura cultural.</string>
+    <string name="questao45B">B) um legado de origem geográfica.</string>
+    <string name="questao45C">C) um impacto de natureza histórica.</string>
+    <string name="questao45D">D) um problema de estratificação social.</string>
+    <string name="questao45E">E) a questão da intolerância linguística.</string>
+    <string name="questao46">Becoming\n\n<br/><br/>
+            Back in the ancestral homeland of Michelle Obama, black women were rarely granted the honorific Miss or Mrs., but were addressed by their first name, or simply as “gal” or “auntie” or worse. This so openly demeaned them that many black women, long after they had left the South, refused to answer if called by their first name. A mother and father in 1970s Texas named their newbor “Miss” so that white people would have no choice but to address their daughter by that title. Black women were meant for the field or the kitchen, or for use as they saw fit. They were, by definition, not ladies. The very idea of a black woman as first lady ofthe land, well, that would have been unthinkable.\n<br/>\n<br/>
+            A crítica do livro de memórias de Michelle Obama, ex-primeira-dama dos EUA, aborda a história das relações humanas na cidade natal da autora. Nesse contexto, o uso do vocábulo “unthinkable” ressalta que</string>
+    <string name="questao46A">A) a ascensão social era improvável.</string>
+    <string name="questao46B">B) a mudança de nome era impensável.</string>
+    <string name="questao46C">C) a origem do indivíduo era irrelevante.</string>
+    <string name="questao46D">D) o trabalho feminino era inimaginável.</string>
+    <string name="questao46E">E) o comportamento parental era irresponsável.</string>
+    <string name="questao47">CELINE\n\n<br/><br/>
+            Americans always think Europe is perfect. But such beauty and history can be really oppressive. Itreduces the individual to nothing. It just reminds you all the time you are just a little speck in a long history, where in America you feel like you could be making history. That\'s why | like Los Angeles because itis so...\n\n<br/><br/>
+            JESSE\n<br/>
+            Ugly?\n<br/>
+            CELINE\n\n<br/><br/>
+            No, | was going to say “neutral”. It\'s like looking at a blank canvas. | think people go to places like Venice on their honeymoon to make sure they are not going to fight for the first two weeks of their marriage because they\'ll be too busy looking around at all the beautiful things. That\'s what people call a romantic place — somewhere where the prettiness will contain your primary violent instinct. Areal good honeymoon spot would be like somewhere in New Jersey.\n\n<br/><br/>
+            Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme permite reconhecer que a avaliação sobre um lugar depende do(a)</string>
+    <string name="questao47A">A) beleza do próprio local.</string>
+    <string name="questao47B">B) perspectiva do visitante.</string>
+    <string name="questao47C">C) contexto histórico do local.</string>
+    <string name="questao47D">D) tempo de permanência no local.</string>
+    <string name="questao47E">E) finalidade da viagem do visitante.</string>
+    <string name="questao48">Se reunieron en un volumen todas las entrevistas dadas por el poeta y dramaturgo Federico Garcia Lorca. Lorca concedió 133 entrevistas; leyéndolas se sabrá qué estaba por detrás de la poética del escritor andaluz. Sobre su obra declaró en una de ellas: “No he sido nunca poeta de minoria. He tratado de poner en mis poemas lo de todos los tiempos, lo permanente, lo humano. A mí me ataca lo humano, es el elemento fundamental en toda obra de arte”. Y en otra dijo: “Hoy no interesa más que una problemática: lo social. La obra que no siga esa dirección está condenada al fracaso, aunque sea muy buena”. En su última entrevista, de junio de 1936, Lorca se muestra profético: “Ni el poeta ni nadie tiene la clave y el secreto del mundo. Quiero ser bueno. Sé que la poesia eleva y creo firmemente que si hay un más allá tendré la agradable sorpresa de encontrarme con él. Pero el dolor del hombre y la injusticia constante que mana del mundo, y mi propio cuerpo y mi propio pensamiento, me evitan trasladar mi casa a las estrellas”.\n\n<br/><br/>
+            Esse trecho da resenha de um livro de entrevistas concedidas por Federico Garcia Lorca tem por finalidade</string>
+    <string name="questao48A">A) ressaltar a atração do entrevistado por questões místicas.</string>
+    <string name="questao48B">B) divulgar a comoção das elites com as obras do entrevistado.</string>
+    <string name="questao48C">C) salientar o compromisso do entrevistado com as questões sociais.</string>
+    <string name="questao48D">D) mostrar a atualidade das obras poéticas e teatrais do entrevistado.</string>
+    <string name="questao48E">E) criticar o interesse do entrevistado por particularidades da vida humana.</string>
+    <string name="questao49">Amuleto\n\n<br/><br/>
+            Lo único cierto es que llegué a México en 1965 y me planté en casa de León Felipe y en casa de Pedro Garfias y les dije aquí estoy para lo que gusten mandar. Y les debí de caer simpática, porque antipática no soy, aunque a veces soy pesada, pero antipática nunca. Y lo primero que hice fue coger una escoba y ponerme a barrer el suelo de sus casas y luego a limpiar las ventanas y cada vez que podia les pedía dinero y les hacia compra. Y ellos me decian con ese tono espafiol tan peculiar, esa musiquilla distinta que no los abandonó nunca, como si encircularan las zetas y las ces y como si dejaran a las eses más huérfanas y libidinosas que nunca, Auxilio, me decian, deja ya de trasegar por el piso, Auxilio, deja esos papeles tranquilos, mujer, que el polvo siempre se ha avenido con la literatura.\n\n<br/><br/>
+            No fragmento do romance, a uruguaia Auxilio narra a experiência que viveu no México ao trabalhar voluntariamente para dois escritores espanhóis. Com base na relação com os escritores, ela reflete sobre a(s)</string>
+    <string name="questao49A">A) variação linguística do espanhol.</string>
+    <string name="questao49B">B) sujeira dos livros de literatura.</string>
+    <string name="questao49C">C) distintas maneiras de acolher do mexicano.</string>
+    <string name="questao49D">D) orientações sobre a limpeza das casas dos espanhóis.</string>
+    <string name="questao49E">E) dificuldades de comunicação entre patrão e empregada.</string>
+    <string name="questao50">Hoy, en cuestión de segundos uno es capaz de conocer la vida de un individuo o las actividades que lleva a cabo sin necesidad de contacto personal; las RRSS tienen la poderosa virtud de convocar concentraciones de gentes con idearios comunes y generar movimientos como la Primavera Árabe, por ejemplo.\n\n<br/><br/>
+            Bajo ese parámetro, cualquier incidente puede ser inmediatamente reportado por grabación o filmación, por lo que a los aparatos celulares, más allá de su utilidad en términos de conversación, habria que calificarlos como “la guillotina del siglo XXI.\n\n<br/><br/>
+            Asi es. Son éstos los que han pasado a convertirse en artefactos con cuyo uso se han develado conversaciones, acuerdos, negociados, chantajes y un sin fin de hechos que han dado curso a procesos de naturaleza legal e investigativa que han tumbado gobiernos, empresas, empresarios, políticos y que, incluso, ha servido en un caso reciente, para que un inocente recupere su libertad tras cuatro afios de injusto encierro.\n\n<br/><br/>
+            O texto trata da evolução inerente às funcionalidades de recursos tecnológicos. A expressão “la guillotina del siglo XXI” destaca que os celulares de hoje podem</string>
+    <string name="questao50A">A) oferecer recursos com funções múltiplas.</string>
+    <string name="questao50B">B) reunir usuários com ideias semelhantes.</string>
+    <string name="questao50C">C) divulgar informação instantânea.</string>
+    <string name="questao50D">D) organizar movimentos sociais.</string>
+    <string name="questao50E">E) assumir utilidade jurídica.</string>
+    <string name="questao51" >En el suelo, apoyado en el mostrador, se acurrucaba, inmóvil como una cosa, un hombre muy viejo. Los muchos afios lo habían reducido y pulido como las aguas a una piedra o las generaciones de los hombres a una sentencia. Era oscuro, chico y reseco, y estaba como fuera del tiempo, en una eternidad.\n\n<br/><br/>
+            No âmbito literário, são mobilizados diferentes recursos que visam à expressividade. No texto, a analogia estabelecida pela expressão “como las aguas a una piedra” tem a função de</string>
+    <string name="questao51A">A) enfatizar a ação do tempo sobre a personagem.</string>
+    <string name="questao51B">B) descrever a objetificação do ambiente.</string>
+    <string name="questao51C">C) expor a anacronia da personagem.</string>
+    <string name="questao51D">D) caracterizar o espaço do conto.</string>
+    <string name="questao51E">E) narrar a perenidade da velhice.</string>
+</resources>
